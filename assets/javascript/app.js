@@ -68,7 +68,7 @@ console.log(questions);
 
 var correct = 0;
 
-var counter = 120;
+var counter = 100;
 
 //set timer for questions
 function countdown() {
@@ -81,7 +81,7 @@ function countdown() {
 
 function start() {
     correct = 0;
-    counter = 10;
+    counter = 100;
 
     timer = setInterval(countdown, 1000);
 
