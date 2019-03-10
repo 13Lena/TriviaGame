@@ -1,0 +1,35 @@
+body {
+    background-color: lavenderblush;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title {
+    width: 90%;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.main {
+    width: 70%;
+    margin: auto;
+    height: 400;
+    background: url(../images/castle.jpg);
+    padding: 20px;
+}
+
+#trivia {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#start {
+    font-size: 25px;
+    border: 1px solid black;
+    width: 15%; 
+	display: block;
+	margin: auto;
+}
