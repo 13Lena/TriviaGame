@@ -86,7 +86,7 @@ function start() {
     timer = setInterval(countdown, 1000);
 
     $('#start').remove();
-    $('#trivia').prepend('<h2>Time Remaining: <span id="counter">120</span> Seconds</h2>');
+    $('#trivia').prepend('<h2>Time Remaining: <span id="counter">100</span> Seconds</h2>');
 
     game();
 };
